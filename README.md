@@ -1,2 +1,0 @@
-# avtRelatorios
-AVT de relatórios
